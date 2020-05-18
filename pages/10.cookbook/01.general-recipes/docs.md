@@ -684,7 +684,7 @@ This is a very simple straightforward method which does not require a plugin and
 
 **Note:** There is also plugin [Grav Page Inject Plugin](https://github.com/getgrav/grav-plugin-page-inject) for this functionality which may be suitable for more advanced scenarios.
 
-First, create a new template file to act as a placeholder for the content - it can have any name, this one is named "modular_reuse" and will be in the stored in your theme's templates/modular_ folder for this example but can be stored anywhere in the templates folder.
+First, create a new template file to act as a placeholder for the content - it can have any name, this one is named "modular_reuse" and will be stored in your theme's templates/modular_folder for this example but can be stored anywhere in the templates folder.
  
 
 `modular_reuse.html.twig` contains only one line:
